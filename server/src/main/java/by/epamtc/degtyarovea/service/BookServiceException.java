@@ -2,8 +2,6 @@ package by.epamtc.degtyarovea.service;
 
 public class BookServiceException extends Exception {
 
-    private static final long serialVersionUID = 3338064374703246359L;
-
     public BookServiceException() {
     }
 
